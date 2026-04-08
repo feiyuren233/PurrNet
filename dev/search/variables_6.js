@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['tickdelta_0',['tickDelta',['../classPurrNet_1_1Modules_1_1TickManager.html#a28c972ac19e981cf1bc4579626f86881',1,'PurrNet::Modules::TickManager']]],
-  ['tickdeltadouble_1',['tickDeltaDouble',['../classPurrNet_1_1Modules_1_1TickManager.html#a05eb401a7cc8bf58ce17b9a7de51781d',1,'PurrNet::Modules::TickManager']]]
+  ['max_5ffragments_0',['MAX_FRAGMENTS',['../classPurrNet_1_1Transports_1_1FragmentationLayer.html#a50082dc844940d6282038224597bc56e',1,'PurrNet::Transports::FragmentationLayer']]],
+  ['maxvalue_1',['MaxValue',['../structPurrNet_1_1Packing_1_1Half.html#ae0f5009343358148020ca3315085b6ed',1,'PurrNet::Packing::Half']]],
+  ['minvalue_2',['MinValue',['../structPurrNet_1_1Packing_1_1Half.html#a0cae7cbd2226affe20f88edc588defa1',1,'PurrNet::Packing::Half']]]
 ];

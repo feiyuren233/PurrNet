@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['scene_0',['scene',['../structPurrNet_1_1Modules_1_1SceneState.html#a77339bb6ee1cb2496ce4c797fb2a6ad1',1,'PurrNet::Modules::SceneState']]],
-  ['settings_1',['settings',['../structPurrNet_1_1Modules_1_1SceneState.html#abec0619094f4777df3f2c4f953391260',1,'PurrNet::Modules::SceneState']]],
-  ['success_2',['success',['../structPurrNet_1_1Authentication_1_1AuthenticationResponse.html#a530d346f1249cf9d55a855a23ceda6be',1,'PurrNet::Authentication::AuthenticationResponse']]]
+  ['hardsnapangle_0',['hardSnapAngle',['../structPurrNet_1_1RigidbodyCorrectionContext.html#a09dba8f0612ca213bd3410a3777d111e',1,'PurrNet::RigidbodyCorrectionContext']]],
+  ['hardsnapdistance_1',['hardSnapDistance',['../structPurrNet_1_1RigidbodyCorrectionContext.html#a6e136c02068d8c737a58444daefe3dc5',1,'PurrNet::RigidbodyCorrectionContext']]]
 ];
